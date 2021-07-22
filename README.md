@@ -2,6 +2,14 @@
 
 This is an AI News Reader App, search news on any topic from any source. 
 
+---
+#### ➔ Deployed Link :
+
+```
+https://the-alan-times.web.app
+```
+---
+
 ## Available Scripts
 
 In the project directory, you can run:
