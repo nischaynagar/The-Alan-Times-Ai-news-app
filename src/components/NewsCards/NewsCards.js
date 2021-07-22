@@ -15,8 +15,8 @@ const infoCards = [
   {
     color: "#4527a0",
     title: "News by Terms",
-    info: "Bitcoin, PlayStation 5, Smartphones, Donald Trump...",
-    text: "What's up with PlayStation 5",
+    info: "Bitcoin, Tesla, Blue Origin, Elon Musk...",
+    text: "What's up with Blue Origin",
   },
   {
     color: "#283593",
