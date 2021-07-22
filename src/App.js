@@ -68,11 +68,11 @@ const App = () => {
             </div>
           </div>
         ) : null}
-        <img
-          src="https://alan.app/voice/images/previews/preview.jpg"
-          className={classes.alanLogo}
-          alt="logo"
-        />
+        <div>
+          <h1>The Alan Times</h1>
+          <h2>By Nischay</h2>
+        </div>
+        <img src="/virtual_logo.png" className={classes.alanLogo} alt="logo" />
       </div>
       <NewsCards articles={newsArticles} activeArticle={activeArticle} />
       <Modal isOpen={isOpen} setIsOpen={setIsOpen} />
